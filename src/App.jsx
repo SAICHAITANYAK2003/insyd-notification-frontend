@@ -146,7 +146,7 @@ const App = () => {
               <span className="text-blue-600">{targetUserId}</span>
             </h2>
             {notifications.length === 0 ? (
-              <p className="text-gray-500 italic">No notifications yet 🚫</p>
+              <p className="text-gray-500 italic text-center mt-5">No notifications yet 🚫</p>
             ) : (
               <ul className="space-y-3">
                 {notifications.map((notif) => (
