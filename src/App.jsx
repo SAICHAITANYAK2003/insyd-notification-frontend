@@ -68,8 +68,9 @@ const App = () => {
       <div className="min-h-screen bg-gradient-to-b from-gray-50 to-gray-100 flex flex-col items-center p-6">
         <div className="w-full max-w-3xl">
           {/* Header */}
-          <h1 className="text-3xl font-extrabold text-center text-blue-600 mb-8 drop-shadow-sm">
-            🚀 Insyd Notification POC
+          <h1 className="text-3xl text-center text-blue-600 mb-8 drop-shadow-sm">
+            Insyd Notification POC
+            <span className="text-lg"> - proof-of-concept</span>
           </h1>
 
           {/* Trigger Event Form */}
