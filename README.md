@@ -122,7 +122,7 @@ Example: `/notifications/user2`
 
 🖼️ **Frontend UI Preview**
 <p style="text-align: center;">
-  <img src="./public/uipreview.png" alt="UI Preview" width="400"/>
+  <img src="./public/uipreview.png" alt="UI Preview" width="600"/>
 </p>
 
 ---
