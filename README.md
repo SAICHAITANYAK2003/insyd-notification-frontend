@@ -120,7 +120,7 @@ Example: `/notifications/user2`
 - 📜 Notifications appear under the target user’s section
 - ❌ If no notifications exist → shows `No notifications yet`
 
-- Frontend UI Preview
+🖼️ **Frontend UI Preview**
 <p style="text-align: center;">
   <img src="./public/uipreview.png" alt="UI Preview" width="400"/>
 </p>
